@@ -1,0 +1,51 @@
+html{
+    color: white;
+    background-color: rgb(27, 24, 24);
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    text-align: center;
+    
+}
+
+#res_screen{
+    width:100%;
+    padding-top: 120px;
+    color:white;
+    margin:auto;
+    
+}
+
+.current_display{
+    font-size: 90px
+}
+
+#start{
+    background-color: rgba(40, 148, 16, 0.336);
+    color:rgb(172, 255, 47)
+}
+
+.stop{
+    background-color: rgba(136, 15, 15, 0.411);
+    color: rgb(224, 13, 13)
+}
+
+button{
+    
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+  background-color: rgb(255, 8, 8);
+  border: 1px solid gray;
+  color: rgba(255, 255, 255, 0.616);
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px 50px;
+  cursor: pointer;
+}
+
+.reset{
+    background-color: rgba(111, 114, 111, 0.39);
+    color:white
+}
